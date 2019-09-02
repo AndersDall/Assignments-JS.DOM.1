@@ -1,4 +1,4 @@
-'use strict'; //Anders Dall test
+'use strict'; //Anders Dall tes
 
 let tails = 0;
 let heads = 0;
